@@ -1,4 +1,4 @@
-package com.progressSoft.demo.service.exceptions;
+package com.progressSoft.demo.exception;
 /**
  * this exception catch any case when the amount is invalid
  * */

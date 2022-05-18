@@ -12,7 +12,7 @@ public class ForeignExchangeTransaction {
     @Id
     @Column(name = "DealID")
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private long dealId;
+    private Long dealId;
 
     /**
      * Ordering Currency

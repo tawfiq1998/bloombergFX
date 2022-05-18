@@ -1,4 +1,4 @@
-package com.progressSoft.demo.service.exceptions;
+package com.progressSoft.demo.exception;
 
 public class CurrencyNotFoundException extends Exception{
 
